@@ -1,0 +1,37 @@
+Hello people of Earth, (or more Specifically 'Bravo Team').
+
+This is our github repository,
+We have the task of developing a new electronic learning system for our Web Application Development module.
+I'd like to think that you all wish to get the most from this module,
+there's much work to complete and we need to work as a team.
+
+This repository is a special type of 'folder'; just like your computer's folders, except here you can:
+add, remove, edit and save your work as a group.
+
+We can do the following things:
+
+- Work Collaboratively
+- Add/Modify the same files to gradually improve on the web application
+- Share ideas and collectively implement the best ideas
+- Download and test the same updated/complete website (same version)
+- Quickly access our project via this simple URL: https://github.com/josh1600/nescot/
+- Easily deploy the completed application once all the editions have been made
+- Gain recognition for the hard work you contribute
+- Save time managing files (as they will remain here (unless testing))
+
+I look forward to this project and hope that you will all learn something and be encouraged to work as a team to get this done.
+Please make an account and email me or tell me your details in-person so that I can add you to the trusted members of this repository.
+When adding a 'commit' to any of the exisiting files, please MAKE SURE you write a lengthy comment describing the following:
+- What it does
+- Why you added it
+- Any concerns you have with it
+- References to line numbers or function names (include appropriate element identification)
+
+
+Lastly, If you have any concerns or general questions regarding this task,
+please contact me directly via email or join the discussion on skype:
+Email: jmt93@outlook.com
+Skype: josh993uk
+
+Remember, We will crush team Alpha if we put some effort into this!
+Thanks for reading.

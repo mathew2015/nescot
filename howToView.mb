@@ -1,0 +1,66 @@
+This is a guide on how to view and modify the web-application. :)
+
+To view the web-application you will need to download the zip file: https://github.com/josh1600/nescot/archive/master.zip
+
+Next, you will need to move the files onto a test server. There are a few options for this.
+
+1. Setup XAMP on your windows system.
+2. Setup LAMP on your linux system.
+
+Note: You may want to download a Virtual OS management application. I use Virtual Box.
+- Next, Download a complete virtual OS system. I downloaded a fresh Ubuntu 12.04 OS.
+- Then move the master.zip contents into the /var/www directory of the server.
+- Now open your browser (prefebly firefox) and enter http://localhost/
+
+You should see our work in progress :)
+
+After setting up your server:
+
+1. download the latest master.zip
+2. delete the contents of /var/www
+   using the commands:
+       cd /var/www
+       sudo rm *.*  (ENSURE YOU ARE IN THIS DIRECTORY BEFORE ACTIONING!)
+3. extract the lastest master.zip into the directory.
+4. Open broswer and search for http://localhost/
+
+Sweet!
+
+**Modification**
+To modify the website you will need to open up the files in a text editor or use the 'nano' found in the linux terminal.
+
+Using Nano:
+1. Open a file using this command:
+    sudo nano filename.php
+2. Modify the file contents
+3. Save:
+    Ctrl+X  then  Y
+4. Test the changes in the browser
+
+Using Texteditor:
+1. Since you will be editing the files with your account you will need to set the file permissions to 'Allow All'
+    (Never do this on a deployed server It will remove all security, this is only for testing)
+    So to set the file permissions you will need to enter these commands:
+        cd /var/www
+        sudo chmod -R 777 *
+Now you can edit and save the files using a text editor
+Open the specified file and save the changes
+View the web-application in the browser
+
+**Finalisation**
+After you have made changes to the web-application you will need to head to github.
+   Login
+   Find the corresponding file you modified
+   Click the little pencil icon
+   paste in the changes
+   Enter in the Prompt for Changes information
+      Write a lengthy comment about the specifics of your addition.
+      Send the request.
+      
+After receiving a request I will determine whether it can be added without any concern or whether we need to discuss it further.
+The better explanation behind your comment will improve the chance of it's commit.
+Once I have accepted the commit request, It will update the project and the new master.zip will have your included contribution.
+Not sure how GitHub works? ...https://help.github.com/
+
+Thanks for reading me cool Arctical.
+Josh.

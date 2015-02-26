@@ -1,0 +1,68 @@
+<!-- Site Map -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="An Online Learning System for Computing Students">
+<meta name="keywords" content="Learning,Online,Course,IT,Network,Programming,HTML,CSS,Javascript,">
+<meta name="author" content="Nescot Bravo Team">
+<title>Site Map</title>
+</head>
+<body>
+<ul>
+	<li>Homepage
+	  <ul>
+	    <li>Register</li>
+	    <li>Portal
+	      <ul>
+	        <li>Courses</li>
+	        <li>Your Courses
+	          <ul>
+	            <li>Course A
+	              <ul>
+	                <li>Course Materials</li>
+	                <li>Practice Tests Prepare Page
+	                  <ul>
+	                    <li>Practice Test
+	                      <ul>
+	                        <li>Results</li>
+                          </ul>
+                        </li>
+                      </ul>
+                    </li>
+	                <li>Take the Exam
+	                  <ul>
+	                    <li>'Prepare Page'
+	                      <ul>
+	                        <li>Exam
+	                          <ul>
+	                            <li>Results (Print / Download as PDF)</li>
+                              </ul>
+                            </li>
+                          </ul>
+                        </li>
+                      </ul>
+                    </li>
+                  </ul>
+                </li>
+	            <li>Course B *Dummy Course</li>
+	            <li>Course C *Dummy Course</li>
+	            <li>Course D *Dummy Course</li>
+              </ul>
+            </li>
+	        <li>Statistics</li>
+	        <li>Results
+	          <ul>
+	            <li>Print / Download as PDF            </li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+        <li>Contact Us</li>
+        <li>Site Map</li>
+        <li>About Us</li>
+      </ul>
+	</li>
+</ul>
+</body>
+</html>
